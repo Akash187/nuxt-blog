@@ -1,0 +1,25 @@
+{
+  "name": "nuxt-blog-app",
+  "version": "1.0.0",
+  "description": "A Blog app build using nuxt.js",
+  "author": "Akash Kumar Seth",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "cross-env": "^5.2.0",
+    "express": "^4.16.4",
+    "js-cookie": "^2.2.0",
+    "nuxt": "^2.0.0",
+    "vuex": "^3.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
